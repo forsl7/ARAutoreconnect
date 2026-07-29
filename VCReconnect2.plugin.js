@@ -2,7 +2,7 @@
  * @name VCAutoReconnect
  * @author AR
  * @description Lock button under mute controls + reliable auto-reconnect
- * @version 5.2.0
+ * @version 0.1
  */
 
 const { Webpack, Webpack: { Filters, getStore, getByKeys, getModule }, UI, Data, DOM } = BdApi;
